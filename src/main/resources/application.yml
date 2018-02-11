@@ -1,0 +1,6 @@
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/test_activiti?useSSL=false&autoReconnect=true&timezone=+800&useUnicode=true&characterEncoding=utf8&allowMultiQueries=true
+    username: root
+    password:
